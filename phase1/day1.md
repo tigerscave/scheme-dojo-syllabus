@@ -42,7 +42,7 @@ See more information in here: https://www.w3schools.com/html/
 
 # Scheme 
 
-Level 1-1: Print something !!! 
+Level 1-1 : Print something !!! 
 
 *** Please type this and click the run button ***
 
@@ -51,4 +51,15 @@ Level 1-1: Print something !!!
 *** Output is: ***
 
     Hello World!
+
+
+Level 1-2 : Culculate numbers 
+
+*** Please type this and click the run button ***
+
+    (+ 3 4)
+
+*** Output is: ***
+
+    7 
 
