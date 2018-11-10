@@ -42,6 +42,10 @@ See more information in here: https://www.w3schools.com/html/
 
 # Scheme 
 
+#### What is the Scheme syntax?
+
+![screen shot 2018-11-10 at 15 07 31](https://user-images.githubusercontent.com/31582557/48298098-97878c80-e4fa-11e8-8403-9fdf2834230d.png) 
+
 Level 1-1 : Print something !!! 
 
 *** Please type this and click the run button ***
@@ -62,4 +66,6 @@ Level 1-2 : Culculate numbers
 *** Output is: ***
 
     7 
+    
+    
 
