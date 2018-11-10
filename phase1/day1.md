@@ -1,4 +1,10 @@
 ## First Day Goal
+* Learn HTML Syntax
+* Try to culculate the numbers by Scheme.  
+
+---
+
+# HTML 
 
 #### What is HTML?
     HTML is the standard markup language for creating Web pages.
@@ -26,9 +32,23 @@
 
 #### What is the HTML syntax?
 
-*** this is the HTML syntax, please it in your mind ***
+*** this is the HTML syntax, please keep it in your mind ***
  
 ![screen shot 2018-11-10 at 12 29 29](https://user-images.githubusercontent.com/31582557/48297166-63ee3780-e4e5-11e8-83d1-7ee4533bb73f.png)
 
 See more information in here: https://www.w3schools.com/html/ 
+
+
+
+# Scheme 
+
+Level 1-1: Print something !!! 
+
+*** Please type this and click the run button ***
+
+    (print "Hello World!")
+
+*** Output is: ***
+
+    Hello World!
 
