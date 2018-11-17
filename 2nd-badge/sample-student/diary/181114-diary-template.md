@@ -1,6 +1,6 @@
-# Diary template
+#Diary template
 
-## What I learned today
+##What I learned today
 
 1. ~~~~
 2. ~~~~
